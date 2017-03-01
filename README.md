@@ -1,0 +1,2 @@
+# NewsReaderExample
+使用RxJava2,Retrofit2,GreenDao3,MVP模式写的一个简单新闻页面，主要介绍这些当红框架的用法
